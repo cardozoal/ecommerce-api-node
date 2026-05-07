@@ -49,7 +49,7 @@ JWT_SECRET=tu_clave_secreta
 3. Iniciar servidor: `npm run dev`
 
 ## Autor
-Desarrollado por [Alan Cardozo] — [github.com/cardozoal](https://github.com/cardozoal)
+Desarrollado por Alan Cardozo — [github.com/cardozoal](https://github.com/cardozoal)
 
 ---
 
@@ -98,4 +98,4 @@ JWT_SECRET=your_secret_key
 3. Start server: `npm run dev`
 
 ## Author
-Made by [Alan Cardozo] — [github.com/cardozoal](https://github.com/cardozoal)
+Made by Alan Cardozo — [github.com/cardozoal](https://github.com/cardozoal)
